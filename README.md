@@ -1,1 +1,0 @@
-#Katalon_Cura_Healthcare_Service
